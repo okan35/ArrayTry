@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\ArrayTry\ArrayTry\bin\Debug\ArrayTry.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\ArrayTry\ArrayTry\bin\Debug\ArrayTry.exe
+c:\users\pc\documents\visual studio 2015\Projects\ArrayTry\ArrayTry\bin\Debug\ArrayTry.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ArrayTry\ArrayTry\obj\Debug\ArrayTry.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\ArrayTry\ArrayTry\obj\Debug\ArrayTry.exe
+c:\users\pc\documents\visual studio 2015\Projects\ArrayTry\ArrayTry\obj\Debug\ArrayTry.pdb
